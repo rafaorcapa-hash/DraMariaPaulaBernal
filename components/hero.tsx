@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
-import { CheckCheckIcon,CheckCircleIcon, CheckCircleIcon, CheckCircleIcon } from "lucide-react"
+import { CheckCheckIcon, CheckCircleIcon } from "lucide-react"
 
 export function Hero() {
   const handleWhatsAppClick = () => {
